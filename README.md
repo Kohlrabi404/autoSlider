@@ -14,11 +14,6 @@ To get started, follow these steps:
 1. Clone this repository to your local machine or download the source code as a ZIP file.
 2. Ensure that you have Python 3.8 or a higher version installed.
 3. Navigate to the project directory.
-
-   ```bash
-   cd automatic-powerpoint-generator
-   ```
-
 4. It is recommended to create a virtual environment to manage project dependencies.
 
    ```bash
