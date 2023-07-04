@@ -63,7 +63,7 @@ To use the program, follow these steps:
 
 ## Contributing
 
-If you would like to enhance the program or report any issues, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-repository-link).
+If you would like to enhance the program or report any issues, please open an issue or submit a pull request on the [GitHub repository](https://github.com/Kohlrabi404/autoSlider).
 
 ## License
 
