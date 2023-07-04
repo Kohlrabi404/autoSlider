@@ -1,0 +1,4 @@
+matplotlib>=3.7.1
+numpy>=1.25.0
+opencv-python>=4.8.0.74
+pywin32>=306
