@@ -31,7 +31,9 @@ def main() -> None :
     transform(path="data\\surf1\\valid\\s", amount=1, homography=homography)
 
     # Save data to zip
-
+    import shutil
+    shutil.make_archive("data", 'zip', 'data')
+    
     # Maybe upload it - can be impossible
 if __name__ == "__main__" :
     main()
