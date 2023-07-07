@@ -18,7 +18,7 @@ def get_transform_h():
             plt.close()
 
     # Load and display the image using plt.imshow
-    image = plt.imread("data\surface\img_0001.png")
+    image = plt.imread("data\surf1\\train\s\img_0001.png")
     plt.imshow(image)
 
     # Create a list to store the clicked points
